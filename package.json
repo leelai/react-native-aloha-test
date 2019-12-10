@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-aloha-test.git",
-    "baseUrl": "https://github.com/github_account/react-native-aloha-test"
+    "url": "git+https://github.com/leelai/react-native-aloha-test.git",
+    "baseUrl": "https://github.com/leelai/react-native-aloha-test"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Lai Lee",
+    "email": "lailee.tw@email.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
