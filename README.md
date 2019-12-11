@@ -12,6 +12,10 @@
 ```javascript
 import AlohaTest from 'react-native-aloha-test';
 
-// TODO: What to do with the module?
-AlohaTest;
+AlohaTest.sampleMethod('Testing', 123, (message) => {
+      this.setState({
+        status: 'native callback received',
+        message
+      });
+    });
 ```
